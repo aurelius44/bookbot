@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+Bookbot is a command-line application utilizing Python to perform static anaylsis on text files.
